@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Cryjai
+- 👋 Hi, I’m @tossmemes
 - 👀 I’m interested in coding and math
-- 🌱 I’m currently learning HTML and Css with the free resources online
+- 🌱 I’m currently learning coding
 - 🇭🇰 I'm from Hong Kong
 -Coding beginner
 
