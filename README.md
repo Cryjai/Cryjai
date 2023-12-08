@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @tossmemes
-- 👀 I’m interested in coding and math
-- 🌱 I’m currently learning coding
-- 🇭🇰 I'm from Hong Kong
--Coding beginner
+- 👋 Hi,Bye
 
 
 <!---
