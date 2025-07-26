@@ -1,6 +1,6 @@
 - 👋 Hi,Bye
 https://cryjai.github.io/Profile/
-
+![strong]
 (https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyN2xnOHExMWZ4a295cTl4MTF4amJjYmhmNjI5NjluM3VsbTliYXFlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeT5jhseHD0W3dI7de/giphy.gif)
 
 ## 💥 終極Skillset Combo
