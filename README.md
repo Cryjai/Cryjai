@@ -14,6 +14,7 @@
 <h3 align="center">HK ADHD-fueled polymath SEN student with zero tolerance for boredom.</h3>
 
 - My Project [stock-sentiment-analysis](https://github.com/Cryjai/stock-sentiment-analysis)
+  [life-bankruptcy-trackor](https://cryjai.github.io/life-bankruptcy-trackor/)
 
 - 🌱 I’m currently learning **Full Stack Development(Backend),CS50**
 
