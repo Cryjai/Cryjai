@@ -22,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cryjai](https://github.com/Cryjai)
 
-- 📝 I regularly write articles on [https://www.threads.com/@acrystagram](https://www.threads.com/@acrystagram)
+- 📝 I regularly write articles on [Threads](https://www.threads.com/@acrystagram)
 
 - 📫 How to reach me **mickeycry0506@gmail.com**
 
