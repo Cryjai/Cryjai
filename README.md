@@ -15,7 +15,7 @@
 - My Project [stock-sentiment-analysis](https://github.com/Cryjai/stock-sentiment-analysis)
   [life-bankruptcy-trackor](https://cryjai.github.io/life-bankruptcy-trackor/)
 
-[Study resources](https://github.com/Cryjai/Acry-dse-study-hub)
+[Study-resources](https://github.com/Cryjai/Acry-dse-study-hub)
 
 - 🌱 I’m currently learning **Full Stack Development(Backend),CS50**
 
@@ -24,6 +24,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Cryjai](https://github.com/Cryjai)
 
 - 📝 I regularly write articles on [Threads](https://www.threads.com/@acrystagram)
+
+- To support me
 
 - 📫 How to reach me **mickeycry0506@gmail.com**
 
