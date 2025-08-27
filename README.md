@@ -9,7 +9,7 @@
 - 📚 吃書界兇獸，最近睇緊魯迅、尼采、反烏托邦嘅書(Favourite book:鐵血商鞅)
 - 🗣️ 西班牙文識串識打
 
-<h1 align="center">Hi 👋, I'm AhCry</h1>
+<h1 align="center">Hi 👋, I'm ACry</h1>
 <h3 align="center">HK ADHD-fueled polymath SEN student with zero tolerance for boredom.</h3>
 
 - My Project [stock-sentiment-analysis](https://github.com/Cryjai/stock-sentiment-analysis)
