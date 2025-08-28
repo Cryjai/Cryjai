@@ -2,7 +2,7 @@
 ## 💡 About Me
 
 - 2007 👧🏻 我叫Acry
-- 🏝️ Made in HK，天天都日日得閒，零壓力
+- 🏝️ Made in HK，日日得閒，零壓力
 - SEN student 🧠 走火入魔時有AAA級學習力(睇狀態啦）
 - 🏆 目標：靠免費資源自學👩‍💻，吊打所有讀Computer Science既人，開爆吸金App，目標係靠自己寫code自給自足唔洗俾錢人賺😏
 - 🧩 又睇書又寫code又學西語——每日新興趣
