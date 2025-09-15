@@ -17,7 +17,7 @@
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=cryjai)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryjai&hide=css,html&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryjai&hide=css&theme=tokyonight)
 
 
 
