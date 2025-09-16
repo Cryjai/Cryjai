@@ -13,7 +13,12 @@
 <h3 align="center">HK ADHD-fueled polymath SEN student with zero tolerance for boredom.</h3>
 
 - My Project [stock-sentiment-analysis](https://github.com/Cryjai/stock-sentiment-analysis)
-  [life-bankruptcy-trackor](https://cryjai.github.io/life-bankruptcy-trackor/) [Study-resources](https://github.com/Cryjai/Acry-dse-study-hub) [Acry-Finanace-hub記帳睇股票理財建議](https://cryjai.github.io/acry-finance-hub/#)
+  [life-bankruptcy-trackor](https://cryjai.github.io/life-bankruptcy-trackor/)
+ [Study-resources](https://github.com/Cryjai/Acry-dse-study-hub) 
+
+[Acry-Finanace-hub記帳睇股票理財建議](https://cryjai.github.io/acry-finance-hub/#)
+
+[Acry infinite dse Quiz-- Flashcard, MC, notes](https://github.com/Cryjai/acry-infinite-dse-quiz)
 
   ![Github stats](https://github-readme-stats.vercel.app/api?username=cryjai)
 
