@@ -25,6 +25,8 @@
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryjai&hide=css&theme=tokyonight)
 
+![Acry's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=cryjai)
+
 
 
 - 🌱 I’m currently learning **Full Stack Development(Backend),CS50**
