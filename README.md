@@ -37,9 +37,6 @@
 
 - 📝 I regularly write articles on [Threads](https://www.threads.com/@acrystagram)
 
-- To support me
-  fps我 [![fps code](fps.jpg)](fps.jpg)
-
 - 📫 How to reach me **mickeycry0506@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
