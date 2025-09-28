@@ -10,7 +10,7 @@
 - 🗣️ 西班牙文識串識打
 
 <h1 align="center">Hi 👋, I'm ACry</h1>
-<h3 align="center">HK ADHD-fueled polymath SEN student with zero tolerance for boredom.</h3>
+<h3 align="center">Born in 2007 | HK ADHD polymath SEN student.</h3>
 
 - My Project
  [stock-sentiment-analysis](https://github.com/Cryjai/stock-sentiment-analysis)
