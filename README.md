@@ -21,9 +21,6 @@
 
 [Acry infinite dse Quiz-- Flashcard, MC, notes](https://github.com/Cryjai/acry-infinite-dse-quiz)
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=cryjai)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryjai&hide=css&theme=tokyonight)
 
 ![Acry's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=cryjai)
 
