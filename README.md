@@ -7,7 +7,7 @@
 I build weirdly useful apps at the intersection of **productivity, education, finance, and Chinese metaphysics**.  
 Not here to collect tutorials. Here to ship things.
 
-[Portfolio](https://cryjai.github.io/Acry) · [GitHub Projects](https://github.com/Cryjai?tab=repositories) · [Destiny Web App](https://cryjai.github.io/Destiny/) · [Routine Monsters](https://github.com/Cryjai/RoutineMonsterApp)
+[Portfolio](https://cryjai.github.io/Acry) · [GitHub Projects](https://github.com/Cryjai?tab=repositories) · [Destiny Web App](https://cryjai.github.io/Destiny/) · [Routine Monsters](https://github.com/Cryjai/RoutineMonsterApp) · [易經起卦](https://cryjai.github.io/ichingpredict/)
 
 </div>
 
