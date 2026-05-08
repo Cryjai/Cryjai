@@ -75,14 +75,6 @@ Not here to collect tutorials. Here to ship things.
 
 ---
 
-## GitHub stats
-
-![Acry's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cryjai&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cryjai&layout=compact&theme=transparent&hide_border=true)
-![Acry's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Cryjai)
-
----
-
 <div align="center">
 
 **Building products before permission.**
