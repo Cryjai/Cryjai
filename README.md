@@ -30,6 +30,7 @@ Not here to collect tutorials. Here to ship things.
 |---|---|---|
 | [Destiny](https://github.com/Cryjai/Destiny) | A Chinese metaphysics app with a modern UI, covering BaZi, Zi Wei Dou Shu, I Ching, and daily fortune flows | React, Vite, Tailwind |
 | [Routine Monsters](https://github.com/Cryjai/RoutineMonsterApp) | A gamified offline-first habit tracker where routines become monsters you raise or neglect | React, TypeScript, Capacitor |
+| [中醫穴位for亞健康指南](https://cryjai.github.io/ChineseAcupressureSite/) | Chinese Acupressure Site for relieving | Web app| 
 | [Acry Infinite DSE Quiz](https://github.com/Cryjai/acry-infinite-dse-quiz) | Quiz / flashcard / notes style exam tool for DSE study | Web app |
 | [Acry Finance Hub](https://cryjai.github.io/acry-finance-hub/#) | Personal finance / stock-tracking / money-thinking experiments | Frontend web app |
 | [Acry DSE Study Hub](https://github.com/Cryjai/Acry-dse-study-hub) | Curated study resources and self-learning materials | Resource hub |
