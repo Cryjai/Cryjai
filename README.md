@@ -17,7 +17,7 @@ Not here to collect tutorials. Here to ship things.
 
 - Born in 2007, based in Hong Kong.
 - Self-study student with ADHD / SEN traits, fast-learning, high-obsession mode, strong builder energy.
-- Interested in **coding, product design, behavioral systems, finance, language learning, and strategic thinking**.
+- Interested in **product design (Functions and UI), behavioral systems, finance, language learning, and strategic thinking**.
 - Goal: use free resources to build real apps, compound skills fast, and become financially independent through products.
 
 ---
